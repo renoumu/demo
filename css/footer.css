@@ -1,0 +1,23 @@
+.footer{
+	width: 100%;
+	height: 370px;
+	background-color: #f2f2f2;
+	border-top: 1px solid #e5e5e5;
+}
+.footer-tops-con{padding-top: 48px;padding-bottom: 20px;border-bottom: 1px solid #e5e5e5;}
+.footer-tops-con ul{width: 200px;float: left;}
+.footer-tops-con ul li{padding-bottom: 20px;font-size: 12px;}
+.footer-tops-con ul li a{color: #808080;}
+.tops-con-title{color: #4c4c4c;padding-bottom: 24px;}
+.Telephone{display: block; font-size: 26px;color: #a72323;font-weight: bold;padding-top: 13px;padding-bottom: 4px;}
+.Workinghours{display: block;color: #7e7e7e;}
+.ChatTool{padding-top: 23px;}
+.ChatTool-WeChat{padding-right: 29px;}
+.WeChat-img{width: 41px;height: 41px;background: url(../img/WeChat-QQ.png);}
+.WeChat-name{text-align: center; padding-top: 10px; color: #707070;}
+.QQ-img{width: 41px;height: 41px;background: url(../img/WeChat-QQ.png) 0 -41px;}
+.QQ-name{text-align: center; padding-top: 12px; color: #707070;}
+.footer-bottom-con-list{margin: 0 auto; width: 307px;padding-top: 35px;}
+.footer-bottom-con-list li{float: left; color: #808080;}
+.footer-bottom-con-list li a{padding: 0px 8px; color: #808080;}
+.footer-bottom-con-copyright{text-align: center; padding-top: 18px;color: #808080;}

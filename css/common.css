@@ -1,0 +1,20 @@
+*{font-family: Arial, "Microsoft YaHei";}
+.f12{font-size: 12px;}
+.f14{font-size: 14px;}
+.f16{font-size: 16px;}
+.f18{font-size: 18px;}
+.f20{font-size: 20px;}
+.color-d90000{color: #d90000;}
+.color-da0000{color: #da0000}
+.color-8c8c8c{color: #8c8c8c;}
+.color-808080{color: #808080;}
+.bgc-ffffff{background-color: #ffffff;}
+.bgc-f7f7f7{background-color: #f7f7f7;}
+.bgc-f3f3f3{background-color: #f3f3f3;}
+.borderColor{border-color: #e5e5e5;}
+.w{width: 1000px;margin: 0 auto;}
+.index-main{
+	width: 100%;
+	min-width: 1000px;
+	position: relative;
+}

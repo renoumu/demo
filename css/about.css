@@ -1,0 +1,174 @@
+.about-content-banner{
+	width: 100%;
+	height: 220px;
+	overflow: hidden;
+	background: url(../img/about-banner.png) no-repeat center top;
+}
+.about-content-banner1{
+	width: 100%;
+	height: 220px;
+	overflow: hidden;
+	background: url(../img/about-banner1.png) no-repeat center top;
+}
+.about-content-title{
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	background-color: #f5f5f5;
+}
+.about-content-title-con{
+	text-align: right;
+	color: #626262;
+}
+/*关于我们的内容*/
+.about-content-con{min-height: 500px;padding-bottom: 30px;}
+.about-content-con-left{
+	width: 200px;
+	position: relative;
+}
+.about-content-con-menu{
+	width: 200px;
+	overflow: hidden;
+	position: relative;
+	top: -13px;
+	background-color: #f5f5f5;
+}
+.about-content-con-menu-title{
+	height: 59px;
+	padding: 33px 37px;
+	background-color: #443031;
+}
+.about-content-con-menu-title h4{
+	font-size: 26px;
+	text-align: center;
+	color: #ffffff;
+}
+.about-content-con-menu-title span{
+	height: 26px;
+	line-height: 26px;
+	display: block;
+	color: #b3a068;
+	padding-left: 10px;
+}
+.about-content-con-menu-list li{
+	height: 67px;
+	line-height: 67px;
+	text-align: center;
+	cursor: pointer;
+}
+.about-content-con-menu-list li a{
+	color: #5a5a5a;
+}
+.about-content-con-openAccount{
+	width: 198px;
+	height: 68px;
+	margin-top: 15px;
+	border: 1px solid #e5e5e5;
+	background: url(../img/OpenAccount1.png);
+}
+.about-content-con-Telephone{
+	width: 198px;
+	height: 68px;
+	margin-top: 15px;
+	border: 1px solid #e5e5e5;
+	background: url(../img/OpenAccount1.png) 0 -68px;
+}
+.about-content-title-con i{font-style: normal;}
+.about-content-con-right{
+	width: 751px;
+}
+.about-content-con-right-title{
+	border-bottom: 1px solid #e5e5e5;
+}
+.about-content-con-right-title-name{
+	font-size: 25px;
+	padding: 24px 0 15px;
+}
+.about-content-con-right-title-may{
+	color: #7f7f7f;
+	padding: 0 0 15px;
+}
+.about-content-con-right-cons{padding-top: 30px;}
+.about-content-con-right-cons p{
+	text-indent: 2em;
+	font-size: 14px;
+	line-height: 30px;
+	color: #7f7f7f;
+}
+.about-content-con-right-cons .aboutImg{
+	width: 751px;
+	height: 514px;
+	margin: 55px 0 90px 0;
+	background: url(../img/aboutImg.png) no-repeat center top;
+}
+.con_a{
+	width: 245px;
+    height: 202px;
+}
+.bgnum1{
+    background: #f4f5ec url(../img/about_num1.jpg) no-repeat right bottom;
+    margin-bottom: 7px;
+}
+.bgnum2{
+	background: #f4f5ec url(../img/about_num2.jpg) no-repeat right bottom;
+    margin: 0 8px 7px;
+}
+.bgnum3{
+	background: #f4f5ec url(../img/about_num3.jpg) no-repeat right bottom;
+    margin-bottom: 7px;
+}
+.bgnum4{
+    background: #f4f5ec url(../img/about_num4.jpg) no-repeat right top;
+    margin-top: 7px;
+}
+.bgnum5{
+    background: #f4f5ec url(../img/about_num5.jpg) no-repeat right top;
+    margin: 7px 8px 0;
+}
+.bgnum6{
+    background: #f4f5ec url(../img/about_num6.jpg) no-repeat right top;
+    margin-top: 7px;
+}
+.con_a div{
+    line-height: 24px;
+    color: #4e4e4e;
+}
+.con_b_left{
+	width: 245px;
+}
+.con_b_right{
+    width: 498px;
+    height: 199px;
+    background: url(../img/about_img2.jpg) no-repeat;
+}
+.con_b_right div{
+	line-height: 30px;
+    color: #FFF;
+    padding: 20px 18px 0;
+}
+.bgnum1 div,.bgnum2 div,.bgnum3 div{
+	padding: 21px 17px 0;
+}
+.bgnum4 div,.bgnum5 div,.bgnum6 div{
+	padding: 44px 17px 0;
+}
+.con_b_right div span{font-size: 16px;}
+
+
+.reservation-title{color: #686868;}
+form{padding: 50px 0 0 20px;}
+form div{width: 450px;height: 40px;padding-bottom: 20px;}
+form div label{width: 76px;text-align: right;line-height: 40px; display: inline-block;font-size: 14px;}
+form div #name,form div #phone{width: 280px;height: 38px;border: 1px solid #e5e5e5;font-size: 14px;}
+form div #grender,form div #Investment{width: 170px; height: 38px;border: 1px solid #e5e5e5;font-size: 14px;}
+form div #QQ{width: 168px; height: 38px;border: 1px solid #e5e5e5;font-size: 14px}
+.reservation-btn{width: 200px;height: 50px;padding-top: 20px;padding-bottom: 60px;padding-left: 75px;}
+.reservation-btn input{width: 200px;height: 50px;border: none; background: url(../img/reservation-btn.png) no-repeat center;}
+.about-content-con-right-cons .Terms .Terms-top{font-size: 16px;padding-bottom: 25px;}
+.about-content-con-right-cons .Terms .Terms-bootom{padding-bottom: 100px;}
+.about-content-con-right-cons .Terms .Terms-bootom p{
+	text-indent: 0;
+    font-size: 14px;
+    line-height: 30px;
+    color: #7f7f7f;
+}
